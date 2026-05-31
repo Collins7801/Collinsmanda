@@ -1,2 +1,2 @@
 # Collinsmanda
-My frontend developer portfolio - Html, Css, JS with dark modeS
+My frontend developer portfolio - html, css, JS with dark modes
